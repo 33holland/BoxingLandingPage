@@ -1,7 +1,14 @@
 .container-ma-img {
     position: relative;
     text-align: center;
-    color: white
+    color: white;
+    object-position: 50% 50%;
+}
+
+.ma-img {
+    width: 100%;
+    display: block;
+    object-fit: none;
 }
 
 .top-left {
